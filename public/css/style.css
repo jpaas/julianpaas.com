@@ -1,0 +1,45 @@
+body {
+	background-color: #333;
+	color: #CCC;
+	font-family: "helvetica", "arial", "sans-serif";
+}
+
+a {
+	color: #faf47d;
+	text-decoration: none;
+}
+
+img {
+	border: none;
+}
+
+#main {
+	margin: 0px auto;
+	width: 810px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	text-align: center;
+}
+
+li {
+	margin: 80px 0 80px 0;
+}
+
+#footer {
+	color: #999;
+	font-size: 0.7em;
+	margin: 10px;
+	text-align: center;
+}
+
+.clearfix {
+	clear: left;
+}
+
+.snicon {
+	height: 72px;
+	width: 72px;
+}
