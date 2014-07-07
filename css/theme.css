@@ -1,0 +1,35 @@
+body {
+	background-color: #1e1e1e;
+	color: #CCC;
+}
+
+.column-nav li {
+	margin: 24px 0 24px 0;
+}
+
+.column-nav-button {
+	color: rgba(255,255,255,0.25);
+}
+
+.column-nav-button:hover {
+	color: rgba(255,255,255,0.75);
+}
+
+footer {
+	color: rgba(255,255,255,0.25);
+	font-size: 0.8em;
+	margin: 10px;
+	text-align: center;
+}
+
+.snicon {
+	height: 72px;
+	width: 72px;
+	opacity: .25;
+	-webkit-filter: grayscale(100%);
+}
+
+.snicon:hover {
+	opacity: 0.75;
+	-webkit-filter: grayscale(0%);
+}
